@@ -1,11 +1,11 @@
-#api
+# api
 cd api
 yarn start
 
-#client
+# client
 cd client
 yarn start
 
-#admin
+# admin
 cd admin
 yarn start
